@@ -1,0 +1,16 @@
+{
+  "name": "peter-node-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "github": "^14.0.0",
+    "lodash": "^4.17.21"
+  }
+}
